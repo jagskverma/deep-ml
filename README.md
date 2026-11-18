@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 5 problems · 1 labs · 0 math
+**7** solved · 5 problems · 1 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -23,6 +23,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [PyTorch: Build a Complete Training Loop](https://www.deep-ml.com/labs/13) | easy | 2026-11-16 | [solution](labs/0013-pytorch-build-a-complete-training-loop) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-11-18 | [solution](math/0010-matrix-multiplication) |
 
 ---
 
